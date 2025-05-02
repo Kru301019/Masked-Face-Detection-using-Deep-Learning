@@ -1,4 +1,4 @@
-# Masked Face Detection using Machine Learning and Deep Learning
+# Masked Face Detection using Deep Learning
 
 This repository demonstrates the implementation of a **Masked Face Detection** system. The goal of the project is to classify whether a person is wearing a mask or not in images using both traditional machine learning and deep learning approaches.
 
